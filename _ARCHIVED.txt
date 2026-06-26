@@ -1,0 +1,6 @@
+# 此目录已归档
+
+chukouchengzhang-web（出口成章）是独立项目，已归档至 `_legacy/chukouchengzhang-web/`。
+不再属于 AIToBe 当前主线。
+
+归档日期：2026-05-11

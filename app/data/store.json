@@ -1,0 +1,155 @@
+{
+  "transcripts": [
+    {
+      "id": "ts_3052d53d-6f96-454f-bdc6-faef40efdc71",
+      "createdAt": "2026-03-30T05:01:04.092Z",
+      "scene": "idea",
+      "mode": "concise",
+      "inputSource": "text",
+      "captureMeta": null,
+      "transcriptionMeta": null,
+      "rawText": "这是一次 smoke test，请验证 http provider 链路。",
+      "polishedText": "这个产品灵感的核心是：这是一次 smoke test，请验证 http provider 链路 下一步建议：先把核心观点压成 1 句话，再补 2 个支撑点。整体改为短句优先，突出重点。 [HTTP Provider 已处理]",
+      "summaryTitle": "这个产品灵感的核心是：这是一…",
+      "suggestedTags": [
+        "灵感"
+      ],
+      "nextAction": "用优化稿复述 1 次，再对照训练结果继续收紧表达。",
+      "issues": [
+        {
+          "title": "句子偏长",
+          "detail": "当前表达承载信息较多，适合拆成 2~3 个短句，降低听感负担。"
+        },
+        {
+          "title": "结构层次不明显",
+          "detail": "建议使用“先结论、再解释、最后行动”的结构，听感会更稳。"
+        },
+        {
+          "title": "价值点未被点亮",
+          "detail": "可以补一层“为什么重要 / 带来什么结果”，让表达更完整。"
+        }
+      ],
+      "stats": {
+        "text": "这是一次 smoke test，请验证 http provider 链路。",
+        "language": "zh-CN",
+        "duration": 10,
+        "wordCount": 37,
+        "scene": "idea",
+        "inputSource": "text",
+        "captureMeta": null
+      },
+      "provider": "http-demo-llm"
+    },
+    {
+      "id": "ts_d2c01599-9a72-4f00-8991-a693af009df8",
+      "createdAt": "2026-03-30T04:26:16.374Z",
+      "scene": "idea",
+      "mode": "concise",
+      "inputSource": "demo",
+      "captureMeta": null,
+      "transcriptionMeta": null,
+      "rawText": "我想做一个结合语音转写和表达训练的产品，它不只是把你说的话记下来，还会帮你整理成更有逻辑的版本，并且让你重新说一遍，看看表达有没有进步。",
+      "polishedText": "这个产品灵感的核心是：做一个结合语音转写和表达训练的产品，它不只是把你说的话记下来，还会帮你整理成更有逻辑的版本，并且让你重新说一遍，看看表达有没有进步 下一步建议：先把核心观点压成 1 句话，再补 2 个支撑点。整体改为短句优先，突出重点。",
+      "summaryTitle": "这个产品灵感的核心是：做一个…",
+      "suggestedTags": [
+        "灵感",
+        "产品表达",
+        "表达训练"
+      ],
+      "nextAction": "用优化稿复述 1 次，再对照训练结果继续收紧表达。",
+      "issues": [
+        {
+          "title": "句子偏长",
+          "detail": "当前表达承载信息较多，适合拆成 2~3 个短句，降低听感负担。"
+        },
+        {
+          "title": "结构层次不明显",
+          "detail": "建议使用“先结论、再解释、最后行动”的结构，听感会更稳。"
+        },
+        {
+          "title": "价值点未被点亮",
+          "detail": "可以补一层“为什么重要 / 带来什么结果”，让表达更完整。"
+        }
+      ],
+      "stats": {
+        "text": "我想做一个结合语音转写和表达训练的产品，它不只是把你说的话记下来，还会帮你整理成更有逻辑的版本，并且让你重新说一遍，看看表达有没有进步。",
+        "language": "zh-CN",
+        "duration": 17,
+        "wordCount": 68,
+        "scene": "idea",
+        "inputSource": "demo",
+        "captureMeta": null
+      }
+    },
+    {
+      "id": "ts_c5795879-5080-4d90-8b47-2ffae8d40268",
+      "createdAt": "2026-03-30T02:39:24.911Z",
+      "scene": "idea",
+      "mode": "concise",
+      "rawText": "我想做一个结合语音转写和表达训练的产品，它不只是把你说的话记下来，还会帮你整理成更有逻辑的版本，并且让你重新说一遍，看看表达有没有进步。",
+      "polishedText": "这个产品灵感的核心是：做一个结合语音转写和表达训练的产品，它不只是把你说的话记下来，还会帮你整理成更有逻辑的版本，并且让你重新说一遍，看看表达有没有进步 下一步建议：先把核心观点压成 1 句话，再补 2 个支撑点。整体改为短句优先，突出重点。",
+      "summaryTitle": "这个产品灵感的核心是：做一个…",
+      "suggestedTags": [
+        "灵感",
+        "产品表达",
+        "表达训练"
+      ],
+      "nextAction": "用优化稿复述 1 次，再对照训练结果继续收紧表达。",
+      "issues": [
+        {
+          "title": "句子偏长",
+          "detail": "当前表达承载信息较多，适合拆成 2~3 个短句，降低听感负担。"
+        },
+        {
+          "title": "结构层次不明显",
+          "detail": "建议使用“先结论、再解释、最后行动”的结构，听感会更稳。"
+        },
+        {
+          "title": "价值点未被点亮",
+          "detail": "可以补一层“为什么重要 / 带来什么结果”，让表达更完整。"
+        }
+      ],
+      "stats": {
+        "text": "我想做一个结合语音转写和表达训练的产品，它不只是把你说的话记下来，还会帮你整理成更有逻辑的版本，并且让你重新说一遍，看看表达有没有进步。",
+        "language": "zh-CN",
+        "duration": 17,
+        "wordCount": 68,
+        "scene": "idea"
+      }
+    }
+  ],
+  "trainingAttempts": [
+    {
+      "id": "tr_14d3b021-fe6e-41e8-b301-b900be0c440d",
+      "createdAt": "2026-03-30T02:39:49.665Z",
+      "round": 1,
+      "text": "这个产品的核心是把用户的口头表达整理成更清晰的内容，再通过复述训练帮助用户持续提升表达能力。",
+      "clarityScore": 66,
+      "structureScore": 63,
+      "polishScore": 59,
+      "feedback": "核心意思已经出来了，但结构提示词还不够，建议用“结论 - 原因 - 下一步”再说一遍。",
+      "improvedPoints": [
+        "表达更收敛，没有明显发散"
+      ],
+      "transcriptId": "ts_c5795879-5080-4d90-8b47-2ffae8d40268"
+    }
+  ],
+  "ideas": [
+    {
+      "id": "idea_23cdf776-2576-4c70-ac40-27761b10624d",
+      "createdAt": "2026-03-30T02:40:11.457Z",
+      "transcriptId": "ts_c5795879-5080-4d90-8b47-2ffae8d40268",
+      "title": "这个产品灵感的核心是：做一个",
+      "rawInput": "我想做一个结合语音转写和表达训练的产品，它不只是把你说的话记下来，还会帮你整理成更有逻辑的版本，并且让你重新说一遍，看看表达有没有进步。",
+      "normalizedText": "这个产品灵感的核心是：做一个结合语音转写和表达训练的产品，它不只是把你说的话记下来，还会帮你整理成更有逻辑的版本，并且让你重新说一遍，看看表达有没有进步 下一步建议：先把核心观点压成 1 句话，再补 2 个支撑点。整体改为短句优先，突出重点。",
+      "category": "产品点子",
+      "tags": [
+        "灵感",
+        "产品表达",
+        "表达训练"
+      ],
+      "nextAction": "用优化稿复述 1 次，再对照训练结果继续收紧表达。",
+      "status": "已归档"
+    }
+  ]
+}
